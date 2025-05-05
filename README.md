@@ -1,7 +1,7 @@
 
 # 💻 [Christian Sassi]
 
-My name is Christian and I am a business analyst and software developer with an interest in data analysis, programming, and electronic music. Currently, I work as a B.I. Analyst, where I coordinate the development of interactive dashboards and data model optimization, translating business requirements into data-driven solutions.
+My name is Christian and I am a business analyst and software developer with an interest in data analysis and programming. Currently, I work as a Business Analyst in the Business Intelligence field, where I coordinate the development of interactive dashboards and data model optimization, translating business requirements into data-driven solutions.
 I’m a person who values meticulous planning and task separation.
 
 ## Programming Languages & Tools
