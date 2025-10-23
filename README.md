@@ -2,7 +2,7 @@
 
 Hi!👋
 
-My name is Christian and I am an IT Business Analyst with a background in software developer and communications. Currently, I work as a Business Analyst in the Business Intelligence field, where I coordinate the development of interactive dashboards and data model optimization, translating business requirements into data-driven solutions.
+My name is Christian and I am an IT Business Analyst with a background in software developement and communications. Currently, I work as a Business Analyst in the Business Intelligence field, where I coordinate the development of interactive dashboards and data model optimization, translating business requirements into data-driven solutions.
 I’m a person who values meticulous planning and task separation.
 
 ## Programming Languages & Tools 💻
