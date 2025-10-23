@@ -2,7 +2,7 @@
 
 Hi!👋
 
-My name is Christian and I am a business analyst and software developer with an interest in data analysis and programming. Currently, I work as a Business Analyst in the Business Intelligence field, where I coordinate the development of interactive dashboards and data model optimization, translating business requirements into data-driven solutions.
+My name is Christian and I am an IT Business Analyst with a background in software developer and communications. Currently, I work as a Business Analyst in the Business Intelligence field, where I coordinate the development of interactive dashboards and data model optimization, translating business requirements into data-driven solutions.
 I’m a person who values meticulous planning and task separation.
 
 ## Programming Languages & Tools 💻
@@ -26,17 +26,37 @@ I’m a person who values meticulous planning and task separation.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chsassi&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-## BI/Data Analysis 💻
+## Analytics 💻
 
-Qlik Sense
+• Qlik Sense Enterprise / Qlik OnPremise (QSE)
+• Qlik SaaS
+• Qlik Management Console (QMC)
+• Oracle Business Intelligence (OBIEE)
+• Oracle Autonomous Data Warehouse (ADW)
+• Google BigQuery
+• SQL Developer
+• Postman
+• MS Excel
 
-Oracle BI (OAC)
+## Project Management & Collaboration 👥
 
-qTest
+• Jira
+• Linear
+• Confluence
+• Notion
+• Figma
+• MS Sharepoint
+• Diagrams.net / Excalidraw
 
+## Current Focus 🚀
 
-## Interests and Hobbies 🎧🥋
+• Expanding my Business Analyst role towards IT Project Management  
+• Coordinating the development of two mobile products outside working hours  
+• Preparing for CAPM and PMI certifications
 
-Music: Neurofunk & Drum and Bass enthusiast, lately enjoying mixing and production. 
+## Interests, Hobbies and Secondary Activities 🎧🥋
 
-BJJ (Brazilian Jiu-Jitsu): Training for 6 years in grappling, currently a purple belt.
+• Neurofunk & Drum and Bass enthusiast, currently focused on music production and DJing.  
+• Founder of an upcoming Neurofunk music label – launch planned for January 2026.  
+• Brazilian Jiu-Jitsu practitioner for 6 years, currently holding a purple belt.  
+• Managing social media platforms for MARS Academy.
