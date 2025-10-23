@@ -29,34 +29,53 @@ I’m a person who values meticulous planning and task separation.
 ## Analytics 💻
 
 • Qlik Sense Enterprise / Qlik OnPremise (QSE)
+
 • Qlik SaaS
+
 • Qlik Management Console (QMC)
+
 • Oracle Business Intelligence (OBIEE)
+
 • Oracle Autonomous Data Warehouse (ADW)
+
 • Google BigQuery
+
 • SQL Developer
+
 • Postman
+
 • MS Excel
 
 ## Project Management & Collaboration 👥
 
 • Jira
+
 • Linear
+
 • Confluence
+
 • Notion
+
 • Figma
+
 • MS Sharepoint
+
 • Diagrams.net / Excalidraw
 
 ## Current Focus 🚀
 
 • Expanding my Business Analyst role towards IT Project Management  
+
 • Coordinating the development of two mobile products outside working hours  
+
 • Preparing for CAPM and PMI certifications
 
 ## Interests, Hobbies and Secondary Activities 🎧🥋
 
 • Neurofunk & Drum and Bass enthusiast, currently focused on music production and DJing.  
+
 • Founder of an upcoming Neurofunk music label – launch planned for January 2026.  
-• Brazilian Jiu-Jitsu practitioner for 6 years, currently holding a purple belt.  
+
+• Brazilian Jiu-Jitsu practitioner for 6 years, currently a purple belt.  
+
 • Managing social media platforms for MARS Academy.
