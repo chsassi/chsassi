@@ -14,7 +14,7 @@ I’m a person who values meticulous planning and task separation.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chsassi&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-## Analytics 💻
+## Analytics 📊
 
 • Qlik Sense Enterprise / Qlik OnPremise (QSE)
 
